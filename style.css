@@ -3,7 +3,7 @@
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            background-color: #f0f0f0;
+            background-color: #b90b0b;
             margin: 0;
             padding: 0;
         }
@@ -17,7 +17,7 @@
             width: 80%;
             margin: auto;
             overflow: hidden;
-            padding: 20px;
+            padding: 45px;
         }
         .main-content {
             background-color: #fff;
@@ -28,7 +28,7 @@
             background-color: #333;
             color: #fff;
             text-align: center;
-            padding: 10px 0;
+            padding: 15px 0;
             position: fixed;
             bottom: 0;
             width: 100%;
